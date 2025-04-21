@@ -1,11 +1,11 @@
 {
   "basics": {
-    "name": "Mehdi Yazdani-Jahromi",
+    "name": "Ali Khodabandeh Yalabadi",
     "label": "AI Ph.D. Researcher",
-    "email": "yazdani@ucf.edu",
-    "phone": "(407) 810-4467",
+    "email": "yalabadi@ucf.edu",
+    "phone": "(407) 664-9188",
     "url": "http://yazdanimehdi.com",
-    "summary": "AI Research Scientist and Ph.D. candidate specializing in computational drug discovery and machine learning, with proven expertise in developing novel architectures for Transformers and Graph Neural Networks. Led groundbreaking research at Johnson & Johnson, developing HELM, the first mRNA antibody language model. Published extensively in top-tier venues with focus on algorithmic fairness, drug-target interaction prediction and innovative AI methodologies. Demonstrated track record of translating complex research into practical applications, combining deep technical knowledge with strong collaborative abilities across academic and industry settings. Proficient in large-scale distributed systems and experienced in implementing production-ready AI solutions.",
+    "summary": "Ph.D. candidate and AI researcher with a strong focus on computational drug discovery, machine learning, and data science. Experienced in developing advanced AI models for drug-target interaction prediction, generative molecular design, and algorithmic fairness. Proficient in statistics, data analysis, and predictive modeling, with publications in top-tier venues. Adept at leading projects and managing cross-functional collaborations, combining technical expertise with business acumen. Background in industrial engineering, applying optimization and data-driven strategies to real-world AI challenges.",
     "location": {
       "city": "Orlando",
       "region": "Florida",
@@ -14,8 +14,8 @@
     "profiles": [
       {
         "network": "GitHub",
-        "username": "yazdanimehdi",
-        "url": "http://github.com/yazdanimehdi"
+        "username": "khodabandeh-ali",
+        "url": "http://github.com/khodabandeh-ali"
       }
     ]
   },
@@ -23,22 +23,17 @@
     {
       "name": "Programming Languages",
       "level": "",
-      "keywords": ["C++", "Python", "C#", "Dart", "JavaScript", "SQL", "Solidity", "MATLAB"]
+      "keywords": ["Python", "SQL", "R", "MATLAB"]
     },
     {
       "name": "Python Packages",
       "level": "",
-      "keywords": ["Pytorch", "Numpy", "Pandas", "Keras", "TensorFlow", "Scikit-learn", "Scipy", "Networkx", "iGraph", "dgl", "matplotlib", "seaborn"]
-    },
-    {
-      "name": "JavaScript Frameworks",
-      "level": "",
-      "keywords": ["Vue.js", "Electron", "NativeScript"]
+      "keywords": ["Pytorch", "Numpy", "Pandas", "Keras", "TensorFlow", "Scikit-learn", "Scipy", "matplotlib", "seaborn"]
     },
     {
       "name": "Tools",
       "level": "",
-      "keywords": ["Kubernetes", "Docker", "Git", "HTML", "CSS", "LATEX", "AWS", "Distributed Training"]
+      "keywords": ["Git", "HTML", "CSS", "LATEX", "Tableau", "Minitab", "MSP", "GAMS", "NetLogo", "R-Studio", "Microsoft Office"]
     },
     {
       "name": "Quantitative Research",
@@ -46,14 +41,11 @@
       "keywords": [
         "Machine Learning Methods",
         "Artificial Intelligence",
-        "Large Language Models",
         "Generative AI",
-        "Genomics Sequence Modeling",
+        "Drug Discovery",
         "Graph Neural Networks",
         "Convolutional Neural Networks",
         "Transformers",
-        "Recurrent Neural Networks",
-        "LSTMs",
         "Mathematical Optimization",
         "Mathematical Modeling"
       ]
@@ -63,86 +55,70 @@
     {
       "company": "University of Central Florida",
       "position": "Graduate Research Assistant",
-      "startDate": "2021",
+      "startDate": "2022",
       "endDate": "Present",
-      "summary": "Researching drug target interaction, computer vision, and algorithmic fairness."
+      "summary": "Researching drug target interaction, drug discovery, and algorithmic fairness."
     },
      {
-      "company": "Johnson and Johnson",
-      "position": "Data Science Intern, AI/ML for Drug Discovery",
-      "startDate": "2024",
-      "endDate": "2024",
-      "summary": "Computational Drug Discovery, Geometric Learning, Genomics Sequence Modeling, Distributed Training, Training Large Language Models, and Generative AI"
+      "company": "University of Central Florida",
+      "position": "Teaching Assistant",
+      "startDate": "2023",
+      "endDate": "Present",
+      "summary": "Machine Learning (Spring 2025), Data Preparation (Fall 2024), Computational Analysis of Social Complexity (Fall 2023), Data mining II (Summer 2023)"
     },
     {
-      "company": "ZTech Team",
-      "position": "Blockchain Developer",
+      "company": "Keyashian, Tehran, Iran",
+      "position": "Data Engineer & Analytics Specialist",
+      "startDate": "2021",
+      "endDate": "2022",
+      "summary": "Designed and optimized data pipelines and workflows to automate business processes, reduce costs, and drive data-informed decisions."
+    },
+    {
+      "company": "KIT, Tehran, Iran",
+      "position": "Junior Data Scientist",
       "startDate": "2020",
-      "endDate": "2020",
-      "summary": "Developing Blockchain applications on the Ethereum network using Solidity."
+      "endDate": "2021",
+      "summary": "Integrated Instagram data via APIs and applied image processing and Python-based preprocessing for age, gender detection, and analysis."
     },
     {
-      "company": "COVID TEST",
-      "position": "Developer",
-      "startDate": "2020",
+      "company": "Farda Digital Transformation Studio, Tehran, Iran",
+      "position": "Head of Business Planning & Supervision",
+      "startDate": "2018",
       "endDate": "2020",
-      "summary": "An open-source project for COVID-19 data collection and screening."
-    },
-    {
-      "company": "BerimCafe",
-      "position": "Founder and Chief Technology Officer",
-      "startDate": "2019",
-      "endDate": "2020",
-      "summary": "Developed software for cafe and restaurant managements with Django and Flutter."
-    },
-    {
-      "company": "TAEPO",
-      "position": "Founder and Chief Technology Officer",
-      "startDate": "2019",
-      "endDate": "2020",
-      "summary": "Created TOEFL Online Practice and Exam Platform using Django, Vue.js, and Electron.js."
+      "summary": "Developed business models and strategies using BP and Canvas frameworks, led financial forecasting and investor materials, and oversaw marketing analytics, hiring, and operations."
     },
     {
       "company": "MrZoro.ir",
-      "position": "Founder and Chief Technology Officer",
+      "position": "Founder and Chief Executive Officer",
       "startDate": "2018",
       "endDate": "2019",
-      "summary": "Developed an automated solution for reserving meals in university, a Django based project."
+      "summary": "Led UI/UX design and product development, built strategic partnerships and teams, managed fundraising and finances, and drove innovation through customer-focused strategies."
     }
   ],
   "education": [
     {
       "institution": "University of Central Florida",
-      "area": "Computer Science",
+      "area": "Industrial Engineering",
       "studyType": "Doctorate",
-      "startDate": "2021",
-      "gpa": "3.94/4",
+      "startDate": "2022",
+      "gpa": "4/4",
       "order": 1
-    },
-    {
-      "institution": "University of Central Florida",
-      "area": "Computer Science",
-      "order": 2,
-      "studyType": "Masters",
-      "startDate": "2021",
-      "endDate": "2023",
-      "gpa": "3.9/4"
     },
     {
       "institution": "Sharif University of Technology",
       "area": "Industrial Engineering",
       "studyType": "Masters",
       "startDate": "2017",
-      "endDate": "2019",
-      "gpa": "3.88/4"
+      "endDate": "2020",
+      "gpa": "3.27/4"
     },
     {
-      "institution": "Isfahan University of Technology",
+      "institution": "Sharif University of Technology",
       "area": "Industrial Engineering",
       "studyType": "Bachelor",
       "startDate": "2013",
       "endDate": "2017",
-      "gpa": "3.58/4"
+      "gpa": "3.34/4"
     }
   ],
 
@@ -155,23 +131,19 @@
       "language": "Farsi",
       "fluency": "Native"
     },
-    {
-      "language": "French",
-      "fluency": "Elementary"
-    }
   ],
   "publications": [
     {
       "name": "BoKDiff: Best-of-K Diffusion Alignment for Target-Specific 3D Molecule Generation",
-      "publisher": "Submitted to ISMB 2025",
+      "publisher": "Submitted to Bioinformatics Advances 2025",
       "releaseDate": "2025",
       "url": "https://arxiv.org/abs/2501.15631"
     },
     {
-      "name": "HELM: Hierarchical Encoding for mRNA Language Modeling",
-      "publisher": "ICLR 2024, Neurips 2024 Workshop on AI for New Drug Modalities",
+      "name": "FragXsiteDTI: an interpretable transformer-based model for drug-target interaction prediction",
+      "publisher": "Recomb 2024 Oral Presentation, Neurips 2023 Workshop on New Frontiers of AI for Drug Discovery and Development",
       "releaseDate": "2024",
-      "url": "https://arxiv.org/abs/2410.12459"
+      "url": "https://arxiv.org/abs/2311.02326"
     },
     {
       "name": "Fair Bilevel Neural Network (FairBiNN): On Balancing fairness and accuracy via Stackelberg Equilibrium",
@@ -180,24 +152,17 @@
       "url": "https://arxiv.org/abs/2410.16432"
     },
     {
+      "name": "Enhancing supply chain resilience under disruption: analysis of the farmed data by Monte Carlo simulation",
+      "publisher": "International Journal of Systems Science: Operations & Logistics",
+      "releaseDate": "2024",
+      "url": "https://www.tandfonline.com/doi/abs/10.1080/23302674.2024.2398573"
+    },
+    {
       "name": "Learning Fair Representations: Mitigating Statistical Dependencies",
       "publisher": "HCII conference 2023 Oral Presentation",
       "releaseDate": "2024",
       "url": "https://link.springer.com/chapter/10.1007/978-3-031-60611-3_8"
-    },
-    {
-      "name": "DeepDrugDomain: Easy-to-use drug-target affinity/interaction prediction package for architecture design",
-      "publisher": "GitHub",
-      "releaseDate": "2024",
-      "summary": "A Python package for drug-target affinity/interaction prediction using deep learning methods.",
-      "url": "https://github.com/yazdanimehdi/DeepDrugDomain"
-    },
-    {
-      "name": "FragXsiteDTI: an interpretable transformer-based model for drug-target interaction prediction",
-      "publisher": "Recomb 2024 Oral Presentation, Neurips 2023 Workshop on New Frontiers of AI for Drug Discovery and Development",
-      "releaseDate": "2024",
-      "url": "https://arxiv.org/abs/2311.02326"
-    },
+    },   
     {
       "name": "Controlling the misinformation diffusion in social media by the effect of different classes of agents",
       "publisher": "The Computational Social Science Society of the Americas Annual Conference",
@@ -210,158 +175,85 @@
       "releaseDate": "2023",
       "url": "https://arxiv.org/abs/2401.11656"
     },
-    {
-      "name": "Through a fair looking-glass: on mitigating bias in image datasets",
-      "publisher": "AAAI 2023 Workshop on Representation Learning for Responsible Human-Centric AI and HCII conference 2023 Oral Presentation",
-      "releaseDate": "2023",
-      "url": "https://link.springer.com/chapter/10.1007/978-3-031-35891-3_27"
-    },
-    {
-      "name": "BindingSiteAugmented DTA to enable A Next-Generation Pipeline for Interpretable Prediction Models in Drug-Repurposing",
-      "publisher": "Briefings in Bioinformatics",
-      "releaseDate": "2023",
-      "url": "https://academic.oup.com/bib/article/24/3/bbad136/7140297"
-    },
-    {
-      "name": "AttentionSiteDTI: Attention Based Model for Predicting Drug-Target Interaction Using 3D Structure of Protein Binding Sites",
-      "publisher": "Briefings in Bioinformatics",
-      "releaseDate": "2022",
-      "url": "https://academic.oup.com/bib/article/23/4/bbac272/6640006?login=false"
-    },
-    {
-      "name": "UnbiasedDTI: Mitigating Real-World Bias of Drug-Target Interaction Prediction",
-      "publisher": "MDPI Molecules",
-      "releaseDate": "2022",
-      "url": "https://www.mdpi.com/1420-3049/27/9/2980"
-    }
   ],
   "awards": [
-    {
-      "title": "30000$ Amazon Research Credit Award for CoViT project",
-      "date": "2023"
-    },
-    {
-      "title": "Nominated for Order of Pegasus award",
-      "date": "2023"
-    },
     {
       "title": "Invited to Golden Key International Honor Society",
       "date": "2022"
     },
     {
       "title": "Outstanding Graduate Fellowship University of Central Florida",
-      "date": "2021"
+      "date": "2022"
     },
     {
-      "title": "Ranked 1st in Iranian national entrance exam for M.Sc. of industrial engineering",
+      "title": "Ranked 7th among 2000 competitors in Iranian national entrance exam for Ph.D. of industrial engineering",
+      "date": "2020"
+    },
+    {
+      "title": "Ranked 6th among 25000 competitors in Iranian national entrance exam for M.Sc. of industrial engineering",
       "date": "2017"
-    },
-    {
-      "title": "Ranked in top 10 percent among 70 students of Industrial Engineering at Isfahan University of Technology",
-      "date": "2017"
-    },
-    {
-      "title": "Ranked 5th among 70 students of Industrial Engineering at Sharif University of Technology",
-      "date": "2015"
     },
     {
       "title": "Ranked in 1 percent among 251000 competitors Iranian National University Entrance Exam",
       "date": "2013"
     },
     {
-      "title": "Ranked 2nd in “Kharazmi” national Prize for Programming",
-      "date": "2012"
-    },
-    {
-      "title": "Ranked 6th in PYPT (Persian Young Physicists Tournament)",
-      "date": "2012"
-    },
-    {
-      "title": "Ranked 4th in PYPT (Persian Young Physicists Tournament)",
+      "title": "Accepted in first round of IOI (Iran Olympiad in Informatics)",
       "date": "2011"
-    }
+    },
+    {
+      "title": "Ranked 1st in Robocop (Iran student’s maze runner robots)",
+      "date": "2010"
+    },
   ],
   "projects": [
     {
-      "name": "Cache Simulator",
-      "description": "Implementing different Cache management strategies in C++",
-      "startDate": "2022",
-      "entity": "University of Central Florida",
+      "name": "Master Thesis",
+      "description": "Statistical Labeling: Cluster-based Approach for Improving Minority Detection in Unbalanced Datasets",
+      "startDate": "2019",
+      "entity": "Sharif University of Technology",
       "type": "Academic Project"
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning Specialization",
-      "data": "2024",
-      "issuer": "Stanford University and DeepLearning.AI",
-      "url": "https://coursera.org/share/4b17de459f221accf5d775721e80a7dd",
-      "icon": "fa-solid fa-certificate"
+      "name": "Digital transformation",
+      "data": "2019",
+      "issuer": "Sharif University of Technology",
     },
-    {
-      "name": "Python Fundamentals",
-      "date": "2018",
-      "issuer": "Tehran University",
-      "url": "https://ut.ac.ir/en",
-      "icon": "fa-solid fa-certificate"
-    },
-    {
-      "name": "Advanced Python",
-      "issuer": "Maktabkhooneh",
-      "date": "2018",
-      "url": "https://maktabkhooneh.org/",
-      "icon": "fa-solid fa-certificate"
-    }
   ],
   "courses": [
     {
-      "course": "3D Computer Vision",
+      "course": "Current topics in ML",
       "grade": "A",
-      "date": "Fall 2022",
+      "date": "Fall 2024",
       "institution": "University of Central Florida"
     },
     {
-      "course": "Advanced Artificial Intelligence",
+      "course": "Machine Learning",
       "grade": "A",
-      "date": "Fall 2022",
-      "institution": "University of Central Florida"
-    },
-    {
-      "course": "Computer Architecture",
-      "grade": "A",
-      "date": "Fall 2022",
-      "institution": "University of Central Florida"
-    },
-    {
-      "course": "Complexity Theory",
-      "grade": "A",
-      "date": "Spring 2022",
+      "date": "Spring 2024",
       "institution": "University of Central Florida"
     },
     {
       "course": "Design and Analysis of Algorithms",
       "grade": "A",
-      "date": "Spring 2022",
+      "date": "Spring 2024",
       "institution": "University of Central Florida"
     },
     {
       "course": "Computer Vision",
       "grade": "A",
-      "date": "Fall 2021",
+      "date": "Fall 2023",
       "institution": "University of Central Florida"
     },
     {
-      "course": "Mathematical Models in Deep Learning",
+      "course": "Bioinformatics",
       "grade": "A",
-      "date": "Fall 2021",
+      "date": "Fall 2023",
       "institution": "University of Central Florida"
     },
-    {
-      "course": "Experimental Design and Methods",
-      "grade": "A",
-      "date": "Spring 2021",
-      "institution": "University of Central Florida"
-    }
+    
   ],
   "references": [
     {
@@ -369,18 +261,6 @@
       "icon": "fa-solid fa-laptop",
       "reference": "Assistant Professor at University of Central Florida",
       "email": "ozlem@ucf.edu"
-    },
-    {
-      "name": "Dr. Mangal Prakash",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Senior Scientist, AI/ML at Johnson & Johnson (Janssen R&D)",
-      "email": "mpraka12@its.jnj.com"
-    },
-    {
-      "name": "Dr. Artem Moskalev",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Research Scientist at Johnson & Johnson (Janssen R&D)",
-      "email": "AMoskal2@ITS.JNJ.com"
     },
     {
       "name": "Dr. Ivan Garibay",

@@ -269,8 +269,8 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Yazdani-Jahomi]
-  first_name: [Mehdi]
+  last_name: [Khodabandeh Yalabadi]
+  first_name: [Ali]
 
   style: apa
   locale: en

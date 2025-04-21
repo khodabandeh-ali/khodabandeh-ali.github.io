@@ -130,7 +130,7 @@
     {
       "language": "Farsi",
       "fluency": "Native"
-    },
+    }
   ],
   "publications": [
     {
@@ -174,7 +174,7 @@
       "publisher": "The Computational Social Science Society of the Americas Annual Conference",
       "releaseDate": "2023",
       "url": "https://arxiv.org/abs/2401.11656"
-    },
+    }
   ],
   "awards": [
     {
@@ -204,7 +204,7 @@
     {
       "title": "Ranked 1st in Robocop (Iran student’s maze runner robots)",
       "date": "2010"
-    },
+    }
   ],
   "projects": [
     {
@@ -220,7 +220,7 @@
       "name": "Digital transformation",
       "data": "2019",
       "issuer": "Sharif University of Technology",
-    },
+    }
   ],
   "courses": [
     {
@@ -252,8 +252,7 @@
       "grade": "A",
       "date": "Fall 2023",
       "institution": "University of Central Florida"
-    },
-    
+    }
   ],
   "references": [
     {

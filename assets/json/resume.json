@@ -4,7 +4,7 @@
     "label": "AI Ph.D. Researcher",
     "email": "yalabadi@ucf.edu",
     "phone": "(407) 664-9188",
-    "url": "http://yazdanimehdi.com",
+    "url": "https://khodabandeh-ali.github.io",
     "summary": "Ph.D. candidate and AI researcher with a strong focus on computational drug discovery, machine learning, and data science. Experienced in developing advanced AI models for drug-target interaction prediction, generative molecular design, and algorithmic fairness. Proficient in statistics, data analysis, and predictive modeling, with publications in top-tier venues. Adept at leading projects and managing cross-functional collaborations, combining technical expertise with business acumen. Background in industrial engineering, applying optimization and data-driven strategies to real-world AI challenges.",
     "location": {
       "city": "Orlando",
@@ -121,7 +121,6 @@
       "gpa": "3.34/4"
     }
   ],
-
   "languages": [
     {
       "language": "English",
@@ -219,7 +218,7 @@
     {
       "name": "Digital transformation",
       "data": "2019",
-      "issuer": "Sharif University of Technology",
+      "issuer": "Sharif University of Technology"
     }
   ],
   "courses": [

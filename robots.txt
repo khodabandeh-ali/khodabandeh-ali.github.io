@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://yazdanimehdi.com/sitemap.xml
+Sitemap: https://khodabandeh-ali.github.io/sitemap.xml

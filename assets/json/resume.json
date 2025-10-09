@@ -140,8 +140,20 @@
   ],
   "publications": [
     {
+      "name": "Equi-mRNA: Protein Translation Equivariant Encoding for mRNA Language Models",
+      "publisher": "Neurips 2025",
+      "releaseDate": "2025",
+      "url": "https://arxiv.org/abs/2508.15103"
+    },
+    {
+      "name": "FairContrast: Enhancing Fairness through Contrastive learning and Customized Augmenting Methods on Tabular Data",
+      "publisher": "Neurips 2025 - Reliable ML Workshop",
+      "releaseDate": "2025",
+      "url": "https://arxiv.org/abs/2510.02017"
+    },
+    {
       "name": "BoKDiff: Best-of-K Diffusion Alignment for Target-Specific 3D Molecule Generation",
-      "publisher": "Submitted to Bioinformatics Advances 2025",
+      "publisher": "Bioinformatics Advances 2025",
       "releaseDate": "2025",
       "url": "https://arxiv.org/abs/2501.15631"
     },
